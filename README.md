@@ -1,1 +1,1 @@
-# Psychoacoustics-Sound_Classification_in_Python
+Classificador de ferramentas mediante características psicoacústicas en Python.
